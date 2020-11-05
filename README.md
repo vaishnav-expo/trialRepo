@@ -23,6 +23,7 @@ description: The description of the project
 ```
 
 ## Demo
+Name Vaishnav Kshirsagar
 View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
 ## Screenshot
